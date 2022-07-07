@@ -1,7 +1,7 @@
-### Olá, Eu sou o Lucas! 👍😎💻
+### Hi, I'm is Lucas! 👍😎💻
 
-- 🔭 Trabalhando em Projetos pessoais
-- 🌱 Estudando C# | ASP.NET Core
+- 🔭 Working in Personal Projects
+- 🌱 Studing C# | ASP.NET Core
 ##
 <div align="center">
   <a href="https://www.linkedin.com/in/LucaslXavier21/">
