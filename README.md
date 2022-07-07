@@ -1,7 +1,7 @@
 ### Hi, I'm is Lucas! 👍😎💻
 
 - 🔭 Working in Personal Projects
-- 🌱 Studing C# | ASP.NET Core
+- 🌱 Studing: C# | ASP.NET Core | SQL SERVER | HTML | CSS | Javascript
 ##
 <div align="center">
   <a href="https://www.linkedin.com/in/LucaslXavier21/">
