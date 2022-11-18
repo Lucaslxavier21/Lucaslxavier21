@@ -1,6 +1,6 @@
 ### Hi, I'm is Lucas! 👍😎💻
 
-- 🔭 Working in Personal Projects
+- 🔭 Working With C# 
 - 🌱 Studing: C# | ASP.NET Core | SQL SERVER | HTML | CSS | Javascript
 ##
 <div align="center">
