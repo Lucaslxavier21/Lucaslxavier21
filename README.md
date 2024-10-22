@@ -1,7 +1,14 @@
 ### Hi, I'm is Lucas! 👍😎💻
 
-- 🔭 Working With C# 
-- 🌱 Studing: C# | ASP.NET Core | SQL SERVER | HTML | CSS | Javascript
+- 🔭 Currently working with C#, ASP.NET, and SQL Server
+- 🌱 Constantly learning and improving my skills in:
+    C#
+    ASP.NET Core
+    SQL Server
+    HTML, CSS, JavaScript
+💡 Passionate about building web applications, back-end development, and database management
+🎯 Always aiming to stay up-to-date with the latest technologies and best practices
+Feel free to explore my projects and connect with me!
 ##
 <div align="center">
   <a href="https://www.linkedin.com/in/LucaslXavier21/">
